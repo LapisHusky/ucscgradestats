@@ -6,7 +6,7 @@ These are public records under the California Public Records Act. Anyone can req
 Pursuant to FERPA and to protect students’ personally identifiable information, grade distributions for classes with less than 10 students, or where all students received the same grade, have been excluded from production.
 
 ## CPRA Responsive Records
-These are the raw files UCSC sent when I requested this data. At some point when I have more free time, I may run scripts to format this into JSON or something easier to process.
+These are the raw files UCSC sent when I requested this data.
 
 ## tsv
 These are the .xlsx files each converted to .tsv (tab separated values) by Google Sheets.
